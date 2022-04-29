@@ -11,6 +11,14 @@ Este es el código del proyecto 1.
 - google-fonts
 - youtube api
 
+# Link proyecto
+- 
+
+
+# Codigo con Server Side Render aplicado
+- https://github.com/angelhigueros/web-proyecto-ssr
+
+
 # Pagina de referencia
 - https://nier.square-enix-games.com/en-us/#game
 
