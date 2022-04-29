@@ -5,6 +5,13 @@ Este es el código del proyecto 1.
 ### Tecnologias
 
 - React JS
+- HTML
+- CSS
+- Webpack
+- ESLint
+- Arbnb
+- Babel
+- JavaScript
 
 # Librerias
 - react-icons
